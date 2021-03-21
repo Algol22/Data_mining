@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+      <F2102 xmlns="mfp:anaf:dgti:banci:formulare:v1" Req_id="111527" Cod_banca="IFN00024" Cui_banca="35795481" Data_creare_mesaj="201910191103">
+          <persoana CNP="1111111111111" Nume="NAME NAME NAME" adresa="-">
+              <D112 Numar_inregistrare="INTERNT-185702120-2019" Data_inregistrare="11.09.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2019" Luna_rap="8" dataAng="20.08.2018" dataSf="13.08.2019">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="9" A_11="1394"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="1394" E3_9="488" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="40" E3_16="866"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-187186445-2019" Data_inregistrare="25.09.2019" Cif="34959276" denumire="CEMARBET SRL" An_rap="2019" Luna_rap="8" dataAng="30.08.2019">
+                  <asiguratA A_1="1" A_2="0" A_3="N" A_4="8" A_8="1" A_11="347"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="362" E3_9="122" E3_10="15" E3_12="510" E3_15="0" E3_16="240"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-183878523-2019" Data_inregistrare="19.08.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2019" Luna_rap="7" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="23" A_11="1218"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="1218" E3_9="427" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="28" E3_16="763"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-181036626-2019" Data_inregistrare="23.07.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2019" Luna_rap="6" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="19" A_11="1126"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="1126" E3_9="395" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="22" E3_16="709"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-177511634-2019" Data_inregistrare="20.06.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2019" Luna_rap="5" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="22" A_11="1460"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="1460" E3_9="511" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="44" E3_16="905"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-175031548-2019" Data_inregistrare="23.05.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2019" Luna_rap="4" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="20" A_11="1482"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="1482" E3_9="519" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="45" E3_16="918"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-170827386-2019" Data_inregistrare="17.04.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2019" Luna_rap="3" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="21" A_11="1793"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="1793" E3_9="627" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="66" E3_16="1100"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-170577973-2019" Data_inregistrare="16.04.2019" Cif="34708495" denumire="STONE PRODUCTS SRL" An_rap="2019" Luna_rap="3" dataAng="09.02.2019" dataSf="10.03.2019">
+                  <asiguratA A_1="1" A_2="0" A_3="N" A_4="8" A_8="6" A_11="606"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="606" E3_9="213" E3_10="0" E3_11="0" E3_12="393" E3_13="0" E3_15="0" E3_16="393"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-168251569-2019" Data_inregistrare="20.03.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2019" Luna_rap="2" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="20" A_11="2080"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="2032" E3_9="711" E3_10="0" E3_11="0" E3_12="480" E3_13="0" E3_15="84" E3_16="1237"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-167980582-2019" Data_inregistrare="18.03.2019" Cif="34708495" denumire="STONE PRODUCTS SRL" An_rap="2019" Luna_rap="2" dataAng="09.02.2019">
+                  <asiguratA A_1="1" A_2="0" A_3="N" A_4="8" A_8="14" A_11="1485"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="1485" E3_9="520" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="46" E3_16="919"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-166071251-2019" Data_inregistrare="22.02.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2019" Luna_rap="1" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="20" A_11="2651"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="2651" E3_9="928" E3_10="0" E3_11="0" E3_12="285" E3_13="0" E3_15="144" E3_16="1579"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-161632936-2019" Data_inregistrare="17.01.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="12" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="19" A_11="1900"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="1827" E3_9="640" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="68" E3_16="1088"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-159693337-2018" Data_inregistrare="18.12.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="11" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="21" A_11="1900"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="1522" E3_9="533" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="48" E3_16="941"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-157740371-2018" Data_inregistrare="22.11.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="10" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="23" A_11="2476"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="2476" E3_9="867" E3_10="0" E3_11="0" E3_12="345" E3_13="0" E3_15="126" E3_16="1483"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-156573745-2018" Data_inregistrare="01.11.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="9" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P4" A_4="8" A_8="20" A_11="1900"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="955" E3_9="335" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="11" E3_16="609"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-156498708-2018" Data_inregistrare="31.10.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="8" dataAng="20.08.2018">
+                  <asiguratA A_1="1" A_2="0" A_3="P3" A_4="8" A_8="10" A_11="864"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="208" E3_9="73" E3_10="0" E3_11="0" E3_12="135" E3_13="0" E3_15="0" E3_16="135"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-152906674-2018" Data_inregistrare="25.09.2018" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2018" Luna_rap="8" dataAng="07.02.2017" dataSf="20.08.2018">
+                  <asiguratC C_1="5" C_2="13" C_5="0" C_8="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="1250"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-156311888-2018" Data_inregistrare="26.10.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="7" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratA A_1="1" A_2="0" A_3="P3" A_4="8" A_8="0" A_11="0"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="0" E3_9="0" E3_10="0" E3_11="0" E3_12="510" E3_13="0" E3_15="0" E3_16="510"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-150947968-2018" Data_inregistrare="25.08.2018" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2018" Luna_rap="7" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="22" C_5="0" C_8="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="1250"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-154352644-2018" Data_inregistrare="18.10.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="6" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratA A_1="1" A_2="0" A_3="P3" A_4="8" A_8="0" A_11="0"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="0" E3_9="0" E3_10="0" E3_11="0" E3_12="0" E3_13="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-148454652-2018" Data_inregistrare="25.07.2018" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2018" Luna_rap="6" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="20" C_5="0" C_8="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="1250"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-154052593-2018" Data_inregistrare="15.10.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="5" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratA A_1="1" A_2="0" A_3="P3" A_4="8" A_8="0" A_11="0"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="0" E3_9="0" E3_10="0" E3_11="0" E3_12="0" E3_13="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-145394133-2018" Data_inregistrare="25.06.2018" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2018" Luna_rap="5" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="21" C_5="0" C_8="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="1250"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-147317991-2018" Data_inregistrare="20.07.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="4" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratA A_1="1" A_2="0" A_3="P3" A_4="8" A_8="0" A_11="0"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="0" E3_9="0" E3_10="0" E3_11="0" E3_12="0" E3_13="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-144484660-2018" Data_inregistrare="15.06.2018" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2018" Luna_rap="4" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="19" C_5="0" C_8="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="1250"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-146777133-2018" Data_inregistrare="16.07.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="3" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratA A_1="1" A_2="0" A_3="P3" A_4="8" A_8="0" A_11="0"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="0" E3_9="0" E3_10="0" E3_11="0" E3_12="0" E3_13="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-144415833-2018" Data_inregistrare="14.06.2018" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2018" Luna_rap="3" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="22" C_5="0" C_8="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="1250"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-145757898-2018" Data_inregistrare="29.06.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="2" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratA A_1="1" A_2="0" A_3="P3" A_4="8" A_8="0" A_11="0"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="0" E3_9="0" E3_10="0" E3_11="0" E3_12="0" E3_13="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-137800752-2018" Data_inregistrare="23.03.2018" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2018" Luna_rap="2" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="20" C_5="0" C_8="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="1250"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-145623074-2018" Data_inregistrare="26.06.2018" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2018" Luna_rap="1" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratA A_1="1" A_2="0" A_3="P3" A_4="8" A_8="0" A_11="0"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="0" E3_9="0" E3_10="0" E3_11="0" E3_12="0" E3_13="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-135688062-2018" Data_inregistrare="23.02.2018" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2018" Luna_rap="1" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="20" C_5="0" C_8="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="0"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="0" E3_9="0" E3_15="0" E3_16="1250"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-185047140-2019" Data_inregistrare="28.08.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2017" Luna_rap="12" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratA A_1="19" A_2="0" A_3="P3" A_4="8" A_8="0" A_11="27"/>
+                  <asiguratE3 E3_1="A" E3_2="19" E3_8="27" E3_9="4" E3_10="0" E3_11="0" E3_12="23" E3_13="0" E3_15="0" E3_16="23"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-133508081-2018" Data_inregistrare="25.01.2018" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2017" Luna_rap="12" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="18" C_5="0" C_8="1233"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="1233" E3_9="68" E3_15="0" E3_16="1233"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-184759735-2019" Data_inregistrare="26.08.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2017" Luna_rap="11" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratA A_1="1" A_2="0" A_3="P3" A_4="8" A_8="0" A_11="0"/>
+                  <asiguratE3 E3_1="A" E3_2="1" E3_8="0" E3_9="0" E3_10="0" E3_11="0" E3_12="0" E3_13="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-130744465-2017" Data_inregistrare="20.12.2017" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2017" Luna_rap="11" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="21" C_5="0" C_8="1233"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="1233" E3_9="68" E3_15="0" E3_16="1233"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-169308013-2019" Data_inregistrare="28.03.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2017" Luna_rap="10" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratB1 B1_1="1" B1_2="0" B1_3="P3" B1_4="8" B1_10="0"/>
+                  <asiguratE3 E3_1="B" E3_2="1" E3_8="0" E3_9="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-129199155-2017" Data_inregistrare="24.11.2017" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2017" Luna_rap="10" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="22" C_5="0" C_8="1233"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="1233" E3_9="68" E3_15="0" E3_16="1233"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-169305370-2019" Data_inregistrare="28.03.2019" Cif="18346091" denumire="PROVIDENT FINANCIAL ROMANIA INSTITUTIE FINANCIARA NEBANCARA SA" An_rap="2017" Luna_rap="9" dataAng="04.01.2016" dataSf="06.02.2017">
+                  <asiguratB1 B1_1="1" B1_2="0" B1_3="P3" B1_4="8" B1_10="0"/>
+                  <asiguratE3 E3_1="B" E3_2="1" E3_8="0" E3_9="0" E3_15="0" E3_16="0"/>
+              </D112>
+              <D112 Numar_inregistrare="INTERNT-126857394-2017" Data_inregistrare="24.10.2017" Cif="28118503" denumire="AGENTIA JUDETEANA PENTRU PLATI SI INSPECTIE SOCIALA - JUDETUL ILFOV - ENTITATE ASIMILATA ANGAJATORULUI" An_rap="2017" Luna_rap="9" dataAng="07.02.2017">
+                  <asiguratC C_1="5" C_2="21" C_5="0" C_8="1233"/>
+                  <asiguratE3 E3_1="C" E3_2="5" E3_8="1233" E3_9="68" E3_15="0" E3_16="1233"/>
+              </D112>
+          </persoana>
+      </F2102>

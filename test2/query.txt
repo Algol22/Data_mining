@@ -1,0 +1,30 @@
+DROP TABLE IF EXISTS app_data_tmp;
+DROP TABLE IF EXISTS cl_attachment_metadata;
+DROP TABLE IF EXISTS dir_attachment_metadata;
+
+CREATE TABLE cl_attachment_metadata(
+app_id INT,
+data_id INT,
+attachment_type_id INT,
+attachment_type_name VARCHAR(255),
+value VARCHAR(255),
+PRIMARY KEY(app_id)
+);
+
+CREATE TABLE app_data_tmp(
+   app_data_id INT,
+   data_id INT,
+   created TIME,
+   deactivated TIME,
+   check_status_id INT,
+   attachment_type_id INT,
+attachment_type_name VARCHAR(255),
+ PRIMARY KEY(app_data_id),
+ app_id INT REFERENCES cl_attachment_metadata (app_id)
+);
+
+CREATE TABLE dir_attachment_metadata(
+   id INT,
+   name VARCHAR(255),
+   parent_id INT
+);
